@@ -12,7 +12,7 @@ The authors of the code does not assume any responsibility in connection with th
 
 The code authors reserve all rights to the code.
 ## Plagiarism
-(Announced By Joe https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jckyau) Provided that this assessment is an individual project, it MUST be entirely your own
+(Announced By [Joe](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jckyau)) Provided that this assessment is an individual project, it MUST be entirely your own
 work. According to the regulationsreleased by Academic Registry of HKBU, “Academic
 dishonesty behavior includes plagiarism, submission of material(s) for assessment
 which is not the student’s own work, and, the use of fabricated or copied data for
@@ -33,3 +33,6 @@ assessment.” (Reference: http://ar.hkbu.edu.hk/curr/avoid_plagiarism/).
 3.Create A README.md. Tell how to run the project
 
 4.Upload all the project files. If a file size is larger than 25MB, GitHub may refuses the file. You can upload the file to Google Drive and share the link in THE README.md in your directory
+
+##  Ask a issue.
+If you meet any problems or have any advice, please creat a issue at [project issus](https://github.com/chuanyang-Zheng/COMP1005/issues)
