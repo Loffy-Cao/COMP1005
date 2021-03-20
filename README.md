@@ -32,4 +32,4 @@ assessment.” (Reference: http://ar.hkbu.edu.hk/curr/avoid_plagiarism/).
 
 3.Create A README.md. Tell how to run the project
 
-4.Upload all the project files. If a file size is larger than 25MB, GitHub may refuses the file. You can upload the file to Google Drive and share the link in THE README.md in your directory 
+4.Upload all the project files. If a file size is larger than 25MB, GitHub may refuses the file. You can upload the file to Google Drive and share the link in THE README.md in your directory
