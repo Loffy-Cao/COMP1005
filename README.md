@@ -11,6 +11,19 @@ dissemination of this code and violation of academic integrity rules.
 The authors of the code does not assume any responsibility in connection with this punishment.
 
 The code authors reserve all rights to the code.
+##Plagiarism
+(Announced By Joe https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jckyau) Provided that this assessment is an individual project, it MUST be entirely your own
+work. According to the regulationsreleased by Academic Registry of HKBU, “Academic
+dishonesty behavior includes plagiarism, submission of material(s) for assessment
+which is not the student’s own work, and, the use of fabricated or copied data for
+assessment.” (Reference: http://ar.hkbu.edu.hk/curr/avoid_plagiarism/)
+**The followings are not allowed**:
+
+ Copying programming statements from the projects submitted previously
+
+ Copying programming statements from the Internet
+
+ Asking peers/senior students to implement the project partially or completely
 ##  Add a project.
 
 1.Choose your class(the time you entered the Hong Kong Baptist University)
