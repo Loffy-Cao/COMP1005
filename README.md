@@ -35,4 +35,4 @@ assessment.” (Reference: http://ar.hkbu.edu.hk/curr/avoid_plagiarism/).
 4.Upload all the project files. If a file size is larger than 25MB, GitHub may refuses the file. You can upload the file to Google Drive and share the link in THE README.md in your directory
 
 ##  Ask a issue.
-If you meet any problems or have any advice, please create a issue at [project issus](https://github.com/chuanyang-Zheng/COMP1005/issues)
+If you meet any problems or have any advice, please create a issue at [project issues](https://github.com/chuanyang-Zheng/COMP1005/issues)
