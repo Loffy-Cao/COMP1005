@@ -36,3 +36,13 @@ assessment.” (Reference: http://ar.hkbu.edu.hk/curr/avoid_plagiarism/).
 
 ##  Ask a issue.
 If you meet any problems or have any advice, please create a issue at [project issues](https://github.com/chuanyang-Zheng/COMP1005/issues)
+
+##  Joint the Project.
+Send an email to cyzhengme@gmail.com or any collaborators.
+
+##  Use the Code.
+To use the code, you can use the following methods.
+
+1. Download Directly. Click [The URL](https://github.com/chuanyang-Zheng/COMP1005/archive/refs/heads/main.zip) and wait the downloading finish.
+
+2. Use git command. git clone https://github.com/chuanyang-Zheng/COMP1005.git
